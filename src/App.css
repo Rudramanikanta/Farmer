@@ -2,6 +2,16 @@
   text-align: center;
 }
 
+div{
+ align-items: center;
+}
+
+#log{
+  align-items: center;
+  align-content: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
