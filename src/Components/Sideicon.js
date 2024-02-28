@@ -5,7 +5,7 @@ export default function Sideicon(props) {
   const val=path.href.includes(props.text)
   useEffect(()=>{
   if(val){
-    document.getElementById("icon").classList.add('text-primary-organe')
+   // document.getElementById("icon").classList.add('text-primary-organe')
   }
   else{
     
